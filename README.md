@@ -3,8 +3,10 @@
 This repository features Python analysis using the Matplotlib and Pandas libraries to visualize data in various plots. Sample data is taken from the [Mouse_metadata](https://github.com/lmfao415/Matplotlib-challenge/blob/main/data/Mouse_metadata.csv) and [Study_results](https://github.com/lmfao415/Matplotlib-challenge/blob/main/data/Study_results.csv) CSV files and focuses on the treatment of cancer tumors in mice using different drug regiments. 
 
 For example, here is a correlation plot showing the relationship between Tumor Volume and Mouse Weight:
-
 ![sample](https://github.com/lmfao415/Matplotlib-challenge/blob/main/data/Screenshot%202021-04-11%20153234.png?raw=true)
+
+Or here is the box and whisker plot of the final tumor volume for all four treatment regimens:
+![sample](https://github.com/lmfao415/Matplotlib-challenge/blob/main/data/box.png?raw=true)
 
 The [pymaceuticals_final](https://github.com/lmfao415/Matplotlib-challenge/blob/main/pymaceuticals_final.ipynb) Jupyter Notebook contains all of the analysis with three major observations included at the top of the notebook. Additionally, the notebook contains all of the following:
 
