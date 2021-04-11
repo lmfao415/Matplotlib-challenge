@@ -1,12 +1,12 @@
 # Matplotlib Analysis
 
-This repository features Python analysis using the Matplotlib library to visualize data in various plots. 
+This repository features Python analysis using the Matplotlib and Pandas libraries to visualize data in various plots. Sample data is taken from the [Mouse_metadata](https://github.com/lmfao415/Matplotlib-challenge/blob/main/data/Mouse_metadata.csv) and [Study_results](https://github.com/lmfao415/Matplotlib-challenge/blob/main/data/Study_results.csv) CSV files and focuses on the treatment of cancer tumors in mice using different drug regiments. 
 
-Three major observations are included at the top of notebook.
+For example, here is a correlation plot showing the relationship between
 
-![Here are the results](https://github.com/lmfao415/Matplotlib-challenge/blob/main/data/Screenshot%202021-04-11%20153234.png?raw=true)
+![sample](https://github.com/lmfao415/Matplotlib-challenge/blob/main/data/Screenshot%202021-04-11%20153234.png?raw=true)
 
-The complete Jupyter Notebook contains all of the following:
+The [pymaceuticals_final](https://github.com/lmfao415/Matplotlib-challenge/blob/main/pymaceuticals_final.ipynb) Jupyter Notebook contains all of the analysis with three major observations included at the top of the notebook. Additionally, the notebook contains all of the following:
 
 * Checks the data for any mouse ID with duplicate time points and removse any data associated with that mouse ID.
 
